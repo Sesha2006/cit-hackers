@@ -6,7 +6,7 @@
 
 Here are the Mechanical Engineering First Semester Subjects
 
-- தமிழர் மரபு /Heritage of Tamils
+- தமிழர் மரபு / Heritage of Tamils
 - Mathematics – I  Calculus and Linear Algebra
 - Engineering Mechanics
 - Communicative English – I
